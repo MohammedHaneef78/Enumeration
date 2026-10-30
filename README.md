@@ -138,7 +138,8 @@ Username guessing tool primarily for use against the default Solaris SMTP servic
 <img width="1280" height="1024" alt="VirtualBox_windows_30_10_2026_22_18_31" src="https://github.com/user-attachments/assets/e438d9d7-cb5e-4db7-85b9-b89b41d2ef5b" />
 
 
-<img width="1280" height="1024" alt="VirtualBox_windows_30_10_2026_22_18_31" src="https://github.com/user-attachments/assets/4c670ef5-a999-46da-8d00-ad97692f7b8d" />
+<img width="1920" height="923" alt="VirtualBox_Parrot Security 6 0_30_10_2026_22_25_11" src="https://github.com/user-attachments/assets/be3f13f2-d88a-4c0f-97df-c92e0a2ddede" />
+
 
 
 
