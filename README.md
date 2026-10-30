@@ -115,18 +115,31 @@ dig google.com MX
 
 ### Perform axfr queries on nameservers and get BIND versions(threaded):
 ```
-
+dig @ns1.google.com google.com axfr
 ```
-Get extra names and subdomains via google scraping (google query = “allinurl: -www site:domain”).
-Brute force subdomains from file, can also perform recursion on subdomain that have NS records (all threaded).
-Calculate C class domain network ranges and perform whois queries on them (threaded).
-Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
-Write to domain_ips.txt file ip-blocks.
-This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
+
+<img width="832" height="176" alt="image" src="https://github.com/user-attachments/assets/019f0d8c-7ab1-4b83-a918-f8ee3705baaf" />
+
+
+### DNS Enumeration using dnsenum:
+```
+dnsenum google.com
+```
+
+<img width="1920" height="1080" alt="VirtualBox_Parrot Security 6 0_30_10_2026_22_12_04" src="https://github.com/user-attachments/assets/29c82296-a2e7-4f8b-9b2d-67abbe220f7d" />
+
 
 
 ##smtp-user-enum
+
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
+
+
+<img width="1280" height="1024" alt="VirtualBox_windows_30_10_2026_22_18_31" src="https://github.com/user-attachments/assets/e438d9d7-cb5e-4db7-85b9-b89b41d2ef5b" />
+
+
+<img width="1280" height="1024" alt="VirtualBox_windows_30_10_2026_22_18_31" src="https://github.com/user-attachments/assets/4c670ef5-a999-46da-8d00-ad97692f7b8d" />
+
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
